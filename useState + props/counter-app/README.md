@@ -29,15 +29,13 @@ A simple counter application built using React to practice **state management** 
 ---
 
 ## 📂 Project Structure
-
+```
 counter-app/
 ├── src/
 │ ├── components/
 │ │ ├── CounterButtons.jsx
 │ │ └── CounterDisplay.jsx
 │ └── App.jsx
-
-
 ---
 
 ## 🧠 How It Works
@@ -55,7 +53,7 @@ counter-app/
 ---
 
 ## 🔄 Data Flow
-
+```
 User Click
 → CounterButtons
 → setCount (Parent)
