@@ -1,5 +1,3 @@
-
-```md
 # Counter App (React)
 
 A simple counter application built using React to practice **state management** and **props communication**.
@@ -16,17 +14,28 @@ A simple counter application built using React to practice **state management** 
 
 ## 📂 Project Structure
 
-```
+# Counter App (React)
 
+A simple counter application built using React to practice **state management** and **props communication**.
+
+---
+
+## 🚀 Concepts Used
+- React `useState`
+- Props (Parent → Child)
+- Event Handling (`onClick`)
+- Component-based structure
+
+---
+
+## 📂 Project Structure
+```
 counter-app/
 ├── src/
-│   ├── components/
-│   │   ├── CounterButtons.jsx
-│   │   └── CounterDisplay.jsx
-│   └── App.jsx
-
-```
-
+│ ├── components/
+│ │ ├── CounterButtons.jsx
+│ │ └── CounterDisplay.jsx
+│ └── App.jsx
 ---
 
 ## 🧠 How It Works
@@ -44,26 +53,25 @@ counter-app/
 ---
 
 ## 🔄 Data Flow
-
 ```
-
 User Click
 → CounterButtons
 → setCount (Parent)
 → count state updates
 → CounterDisplay re-renders
 
-```
 
 ---
 
 ## 🎨 Styling
+
 - Normal CSS is used for styling.
 - Tailwind CSS is **not** used in this project.
 
 ---
 
 ## ✅ Learning Outcome
+
 - Understood how **state lives in the parent component**
 - Learned how **child components update parent state**
 - Practiced **props-based data flow**
@@ -72,10 +80,4 @@ User Click
 ---
 
 ## 📌 Author
-Meraj
-```
-
----
-
-
-
+Meraj  
