@@ -96,13 +96,13 @@ By building this project, i learn:
 ---
 ## 📸 Screenshots
 ### Home Page
-![Home page](./src/assets//Screenshot%202026-01-10%20074749.png)
+![Home page](./src/assets//Screenshot%202026-01-10%20074655.png)
 
 ### Delete Popup
 ![Delete Popup](./src/assets/Screenshot%202026-01-10%20074724.png)
 
 ### Edit Popup
-![Edit Popup](./src/assets/Screenshot%202026-01-10%20074655.png)
+![Edit Popup](./src/assets/Screenshot%202026-01-10%20074749.png)
 
 
 ## 📌 Future Improvements
