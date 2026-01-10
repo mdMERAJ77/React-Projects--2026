@@ -94,6 +94,16 @@ By building this project, i learn:
 * How modal/popups are implemented in React
 
 ---
+## 📸 Screenshots
+### Home Page
+![Home page](./src/assets//Screenshot%202026-01-10%20074749.png)
+
+### Delete Popup
+![Delete Popup](./src/assets/Screenshot%202026-01-10%20074724.png)
+
+### Edit Popup
+![Edit Popup](./src/assets/Screenshot%202026-01-10%20074655.png)
+
 
 ## 📌 Future Improvements
 
